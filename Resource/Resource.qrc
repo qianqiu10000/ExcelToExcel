@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/template">
+        <file>purchase.xlsx</file>
+        <file>machine.xlsx</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>editIcon.png</file>
+        <file>eraseIcon.png</file>
+        <file>fileIcon.png</file>
+        <file>clearIcon.png</file>
+    </qresource>
+</RCC>
